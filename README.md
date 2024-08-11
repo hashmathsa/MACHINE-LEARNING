@@ -4,7 +4,7 @@
 The aim of this project is to explore the relationships between car prices and various independent factors, equipping management with a robust tool to comprehend and forecast car pricing dynamics.
 
 **Dataset:**
-The CarPrice dataset, comprising different car specifications and their corresponding prices, was utilized for this analysis.
+The CarPrice dataset, comprising different car specifications and their corresponding prices, was utilized for this analysis.[  https://drive.google.com/file/d/1FHmYNLs9v0Enc-UExEMpitOFGsWvB2dP/view?usp=drive_link]
 
 **1. Data Loading and Preprocessing:**
 The dataset was loaded and prepared for analysis. Preprocessing steps involved managing missing data, encoding categorical variables, and scaling numerical features to optimize the data for model training. Subsequently, the data was divided into training and testing sets to assess model performance.
